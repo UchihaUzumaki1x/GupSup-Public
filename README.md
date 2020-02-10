@@ -3,13 +3,12 @@ GupSup is a social media android Application where user can share there moments 
 
 **Features**
 
-- build status
-- issues (waffle.io maybe)
-- devDependencies
-- npm package
-- coverage
-- slack
-- downloads
-- gitter chat
-- license
+- Timeline
+- Likes and reactions
+- Comments
+- Share
+- Message and Inbox (Under Development)
+- Notifications
+- Friending
+- Profile
 - etc.
